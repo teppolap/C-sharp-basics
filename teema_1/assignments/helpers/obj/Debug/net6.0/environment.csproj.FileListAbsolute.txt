@@ -1,0 +1,15 @@
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\bin\Debug\net6.0\environment.exe
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\bin\Debug\net6.0\environment.deps.json
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\bin\Debug\net6.0\environment.runtimeconfig.json
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\bin\Debug\net6.0\environment.dll
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\bin\Debug\net6.0\environment.pdb
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\environment.csproj.AssemblyReference.cache
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\environment.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\environment.AssemblyInfoInputs.cache
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\environment.AssemblyInfo.cs
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\environment.csproj.CoreCompileInputs.cache
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\environment.dll
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\refint\environment.dll
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\environment.pdb
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\environment.genruntimeconfig.cache
+C:\JAMK-koulu\kesakurssit\C#_tehtavat\teema_1\assignments\helpers\obj\Debug\net6.0\ref\environment.dll
